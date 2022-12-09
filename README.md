@@ -1,4 +1,6 @@
 # Portfolio website using tailblocks
+## Link : dracu-lah.github.io
+![port2](https://user-images.githubusercontent.com/110589548/206757855-56cf4ce1-00e8-459a-92c4-710278887dfe.png)
 
 familiarize the concept of tailwind blocks 
 
